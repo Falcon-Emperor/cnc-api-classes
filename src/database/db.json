@@ -1,0 +1,46 @@
+{
+    "users": [
+        {
+            "_id": "12345",
+            "name": "Ali",
+            "email": "ali@gmail.com",
+            "password": "123456789"
+        },
+        {
+            "_id": "12345",
+            "name": "Usman",
+            "email": "usman@gmail.com",
+            "password": "123456789"
+        },
+        {
+            "_id": "12345",
+            "name": "ameen",
+            "email": "ameen@gmail.com",
+            "password": "123456789"
+        },
+        {
+            "_id": "12345",
+            "name": "naseem",
+            "email": "naseem@gmail.com",
+            "password": "$2a$10$EN43Ld/vLdBkdWu42uR0lO9P5WSS9pppyesOjcUznHH92TvRkXHXG"
+        },
+        {
+            "_id": "cfdf40f6-5b37-4cc1-a5ad-7b6d4293bb84",
+            "name": "hussain",
+            "email": "hussain@gmail.com",
+            "password": "$2a$10$wBSqrk.Z7U/RQcKf1nzuC.hqIUp2.gW.1E24dOb0a6leMkZAjZ9da"
+        },
+        {
+            "_id": "74131565-277c-4dd5-808d-592923e7799e",
+            "name": "saba",
+            "email": "saba@gmail.com",
+            "password": "$2a$10$HxNcIJi4SxvIDzW1hn3zC.daxul4lDQHmZW4Sg1EwXI2jAqetbOIG"
+        },
+        {
+            "_id": "0e3c72dc-0edf-4335-ada5-0eca395eaa74",
+            "name": "manna",
+            "email": "manna@gmail.com",
+            "password": "$2a$10$Z5X64z1bJ3va0gUV/rqi8O9/3bL6jN5FZUFDqR4o6thicK4EydPSC"
+        }
+    ]
+}
